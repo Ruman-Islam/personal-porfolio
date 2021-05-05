@@ -1,0 +1,17 @@
+.project-container {
+    background-color: #10121B;
+    color: white;
+}
+
+.about h1, h5 {
+    margin-top: 50px;
+    color: whitesmoke;
+}
+
+.language {
+    background-color: #1E2A3A;
+    color: white;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}

@@ -1,0 +1,10 @@
+.project-container .project:hover{
+    transition: transform 650ms;
+    transform: scale(1.02);
+}
+.project {
+    background-color: #1E2A3A;
+    width: 30%;
+    padding: 2px;
+    margin: 0 10px;
+}

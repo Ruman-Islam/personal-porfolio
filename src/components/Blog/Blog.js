@@ -1,0 +1,23 @@
+import React from 'react';
+import './Blog.css';
+import Navbar from '../Shared/Navbar/Navbar';
+
+const Blog = () => {
+    return (
+        <main className="row project-container">
+            <div className="col-md-3">
+                <Navbar />
+            </div>
+            <div className="col-md-9 project-container blog">
+                <div className="row">
+                    <div className="col-md-12 text-justify">
+                        <h2>Coming Soon</h2>
+                        <small>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit ut, quia error atque iste animi cum quas dicta debitis enim obcaecati ratione sapiente asperiores, quasi doloribus! Quaerat, beatae. Aspernatur nam modi similique incidunt doloremque ut totam dolores at, saepe quia rerum reprehenderit libero soluta adipisci eaque minus harum dolorum consequatur voluptates non laudantium laboriosam. Vel est doloremque dignissimos suscipit sed nemo. Eaque, provident in consequatur deleniti perferendis reprehenderit optio assumenda consectetur impedit reiciendis quis vero quasi, illo, delectus dolorum. Expedita incidunt doloremque pariatur recusandae in excepturi laboriosam? Corrupti explicabo dolores voluptatem ipsam, modi repudiandae quibusdam quaerat rem. At voluptatum quisquam minus nihil eos perferendis neque delectus voluptates, odit amet laboriosam facilis, quibusdam quaerat veritatis nam sunt mollitia et modi optio? Iste quos praesentium aperiam aliquid ea officia excepturi labore et. Dolorum corrupti saepe cum magnam quasi itaque molestiae similique ex nesciunt nisi sapiente eligendi quibusdam consequatur aliquam tenetur accusantium, numquam odio doloribus corporis maxime. Nulla, unde quis? Libero aut sequi, sit ipsum temporibus dolorem, corrupti repudiandae fugit ratione itaque, nam nostrum iusto quas possimus asperiores et autem id dignissimos. Soluta velit libero, beatae explicabo minus dolores voluptatum temporibus rerum, animi harum facilis sint necessitatibus deleniti corrupti sed ut fuga quos quo similique neque itaque facere iusto. Perferendis aperiam velit voluptatibus repellendus pariatur excepturi animi accusamus atque soluta. Aperiam sequi corrupti hic esse iure tenetur consectetur optio quaerat nostrum repudiandae obcaecati vel praesentium, dolor porro, facere ducimus dignissimos reprehenderit. Laborum dolorem aliquam asperiores omnis, quos facere quidem cum reprehenderit saepe perferendis explicabo ipsa enim voluptatem, voluptas atque! Natus, dolorum tenetur ad vitae mollitia ab obcaecati veritatis blanditiis perferendis nobis culpa in at nemo qui deserunt sequi laboriosam aliquid facere aperiam libero numquam veniam ut neque. Alias debitis neque, eaque vero laudantium pariatur architecto provident voluptate asperiores aliquam, rem nam nemo inventore officia incidunt odio vel quibusdam praesentium esse fugiat obcaecati enim repudiandae, consectetur reprehenderit? Quasi illum corporis autem iusto ratione quidem eaque laborum laboriosam possimus nostrum voluptatum a, sit ipsum ab officiis dolor, fugiat amet? Reiciendis nisi, sequi ad veritatis deserunt aliquam! Ipsa recusandae non voluptatem quaerat animi, beatae voluptatum consequuntur rerum aliquid, at iste. Voluptatem obcaecati placeat, neque dignissimos tempore dicta magni deserunt doloribus minus delectus vel, quod provident, totam sequi nulla eaque. Nemo maxime minima aliquam accusamus, dicta hic sit fuga explicabo natus. Nisi quo, repudiandae quod molestiae dolores rem facere consectetur modi! Consequuntur modi provident eligendi earum omnis voluptatibus, libero quod aut voluptatum porro incidunt debitis aperiam, fuga placeat similique officia quaerat sint deserunt in ullam cum error consectetur nostrum? Dolore, quas. Id cum, obcaecati minima sequi vero, hic quibusdam cumque optio delectus enim iusto molestiae debitis laborum natus doloremque quas ad temporibus quia explicabo deserunt asperiores doloribus unde dolor facere? Quia ipsa unde perferendis quos incidunt quasi. Accusantium eligendi quod nihil voluptas eos quo neque esse aperiam alias nesciunt voluptatibus rem assumenda quisquam ipsa aut dolore atque tempore sunt ipsum quasi, nemo enim ratione impedit. Labore, necessitatibus perspiciatis voluptatibus totam quis cum quas provident quae iusto id.</small>
+                    </div>
+                </div>
+            </div>
+        </main>
+    );
+};
+
+export default Blog;

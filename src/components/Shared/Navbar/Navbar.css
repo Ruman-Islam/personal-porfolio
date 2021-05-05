@@ -1,0 +1,46 @@
+body{
+    position: relative;
+}
+.main-container {
+    width: 20%;
+    height: 100%;
+    padding: 0 5px;
+    background-color: #1E2A3A;
+    position: fixed;
+}
+.about-container {
+    text-align: center;
+}
+.img {
+    margin-top: 10px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid whitesmoke;
+}
+.about {
+    color: white;
+}
+.icons {
+    text-align: center;
+}
+.icons a {
+    font-size: 25px;
+    color: #54B689;
+    margin-left: 20px;
+}
+.nav-link {
+    font-size: 15px !important;
+    color: whitesmoke !important;
+    font-weight: 700;
+}
+.nav-link:active{
+    color: #54B689 !important;
+}
+.resume button {
+    text-align: center;
+    background-color: #54B689;
+    font-weight: 700;
+    width: 200px;
+    border-radius: 5px;
+}

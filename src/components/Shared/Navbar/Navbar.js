@@ -66,8 +66,9 @@ const Navbar = () => {
                     </div>
                 </nav>
             </div>
-            <div className="resume text-center">
-                <button className="btn btn-secondary"><FontAwesomeIcon icon={faFile} /> <a style={{ textDecoration: 'none', color: 'white' }} download href={cv}>Download Resume</a></button>
+            <div className="text-center">
+                <small>+8801536160661</small><br/>
+                <small>+8801998563637</small>
             </div>
         </div>
     );

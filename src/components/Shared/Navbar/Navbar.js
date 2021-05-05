@@ -21,7 +21,7 @@ const Navbar = () => {
                     <img class="img about-container" src={img2} alt="" />
                 </div>
                 <div class="about">
-                    <h2>Ruman Islam</h2>
+                    <h4>Ruman Islam</h4>
                     <p>Hi, my name is Ruman Islam and I'm a front end web developer. Welcome to my personal website!</p>
                     <hr />
                 </div>

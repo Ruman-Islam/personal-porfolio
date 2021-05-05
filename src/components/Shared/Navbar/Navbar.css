@@ -1,6 +1,9 @@
 body{
     position: relative;
 }
+h4, p{
+    font-family: candara;
+}
 .main-container {
     width: 20%;
     height: 100%;

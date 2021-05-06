@@ -55,9 +55,9 @@ const Projects = () => {
                             <small>It is a book shop This is a react application with used React Router, firebase based hosting site and Node.js This is a ride share and searching website build by react js including.</small>
                         </div>
                         <div style={{ padding: '10px' }}>
-                            <a style={{ marginRight: '20px' }} target="_blank" title="go to repository" href="https://boiboiboi.web.app/)"><FontAwesomeIcon icon={faGithub} /> </a>
+                            <a style={{ marginRight: '20px' }} target="_blank" title="go to repository" href="https://github.com/Porgramming-Hero-web-course/full-stack-client-Ruman-Islam"><FontAwesomeIcon icon={faGithub} /> </a>
 
-                            <a target="_blank" title="go to live website" href="https://github.com/Porgramming-Hero-web-course/full-stack-client-Ruman-Islam"><FontAwesomeIcon icon={faExternalLinkSquareAlt} /> </a>
+                            <a target="_blank" title="go to live website" href="https://boiboiboi.web.app/"><FontAwesomeIcon icon={faExternalLinkSquareAlt} /> </a>
                         </div>
                     </div>
                     <div className="col-md-3 project">
